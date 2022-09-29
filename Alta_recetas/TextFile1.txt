@@ -1,0 +1,2 @@
+completar la consulta y agregar el update
+Usar el Equals para comparar
